@@ -6,6 +6,7 @@
 
 - 🔭 I’m a Bioengineer that always linked to learn and tinker with things
 - 🌱 I like improving things, such as building an [HomeAssistant](https://www.home-assistant.io/) repository
+- Wishing you all a nice day
 
 </td>
 <td>
