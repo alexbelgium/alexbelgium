@@ -22,9 +22,8 @@
 
 A coffee goes a long way in showing appreciation for one's work and providing the necessary cafeine to fuel the coding effort !
 
-I'be set-up 2 main systems :
 - Paypal donation [![Donate][paypal-badge]](https://www.paypal.com/donate/?hosted_button_id=DZFULJZTP3UQA)
-- Buymeacoffee donation [![Donate][donation-badge]](https://www.buymeacoffee.com/alexbelgium)
+- Buymeacoffee donation (no paypal) [![Donate][donation-badge]](https://www.buymeacoffee.com/alexbelgium)
 
 Thanks !
 
