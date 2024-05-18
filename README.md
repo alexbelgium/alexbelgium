@@ -21,12 +21,11 @@
 ### Sponsoring
 
 A coffee goes a long way in showing appreciation for one's work and providing the necessary cafeine to fuel the coding effort !
+Thanks very much !
 
 [![Donate][paypal-badge]](https://www.paypal.com/donate/?hosted_button_id=DZFULJZTP3UQA)
 
 [![Donate][donation-badge]](https://www.buymeacoffee.com/alexbelgium)
-
-Thanks !
 
 [donation-badge]: https://img.shields.io/badge/Buy%20me%20a%20coffee%20(No%20Paypal)-%23d32f2f?logo=buy-me-a-coffee&style=flat&logoColor=white
 [paypal-badge]: https://img.shields.io/badge/Buy%20me%20a%20coffee%20with%20Paypal-0070BA?logo=paypal&style=flat&logoColor=white
